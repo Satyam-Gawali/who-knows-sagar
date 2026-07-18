@@ -80,7 +80,7 @@ This project was built and used for a real family Haldi celebration. Approximate
 ### 1. Clone the Project
 ```bash
 git clone https://github.com/Satyam-Gawali/who-knows-sagar.git
-cd whoknowssagar
+cd who-knows-sagar
 ```
 
 ### 2. Install Dependencies
