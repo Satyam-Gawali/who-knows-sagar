@@ -79,7 +79,7 @@ This project was built and used for a real family Haldi celebration. Approximate
 
 ### 1. Clone the Project
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/Satyam-Gawali/who-knows-sagar.git
 cd whoknowssagar
 ```
 
