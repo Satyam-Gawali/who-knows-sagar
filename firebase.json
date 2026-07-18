@@ -1,0 +1,38 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "who-knows-sagar",
+          "appId": "1:279924491371:android:1547b652d3bf7b6a51dd2e",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "who-knows-sagar",
+          "configurations": {
+            "android": "1:279924491371:android:1547b652d3bf7b6a51dd2e",
+            "ios": "1:279924491371:ios:05c9e6664d04ff0151dd2e",
+            "web": "1:279924491371:web:f3ab651c33cc3ce451dd2e",
+            "windows": "1:279924491371:web:ff08c1e114472fdb51dd2e"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

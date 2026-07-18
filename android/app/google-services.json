@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279924491371",
+    "project_id": "who-knows-sagar",
+    "storage_bucket": "who-knows-sagar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279924491371:android:1547b652d3bf7b6a51dd2e",
+        "android_client_info": {
+          "package_name": "com.satyam.whoknowssagar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRioPGmRs97wl04OvK_DHBKdaiEAzkui0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
